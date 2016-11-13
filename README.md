@@ -1,3 +1,3 @@
 # bitly-clone
 
-create quora-clone with sinatra
+create bitly-clone with sinatra
